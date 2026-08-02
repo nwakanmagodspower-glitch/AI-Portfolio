@@ -14,9 +14,8 @@ I build AI-powered automation systems, AI agents, Telegram bots, workflow automa
 - 🌐 Git & GitHub
 
 ## 📌 Featured Projects
-
 ### AI Telegram Business Assistant
-An AI assistant for customer support, onboarding, lead qualification and follow-up.
+AI assistant for customer support, onboarding, lead qualification and follow-up.
 
 ### n8n Automation Systems
 Reusable automation workflows connecting APIs, AI models, Telegram and Google services.
@@ -25,9 +24,11 @@ Reusable automation workflows connecting APIs, AI models, Telegram and Google se
 Automation for onboarding, VIP access, notifications and AI conversations.
 
 ## 🎯 Current Focus
-Building scalable AI agents and automation systems for businesses while expanding my software engineering skills.
+Building scalable AI agents and automation systems for businesses.
 
-## 📫 Connect
+## 📫 Contact
 - GitHub: https://github.com/nwakanmagodspower-glitch
+- Telegram: @Godspower_AI
+- WhatsApp: +2347025404935
 
-> More projects are being added regularly.
+> More projects, screenshots, demos and documentation will be added regularly.

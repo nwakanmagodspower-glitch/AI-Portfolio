@@ -1,34 +1,64 @@
 # 👋 Hi, I'm Godspower Nwakanma
 
-# AI Automation Developer | Computer Science Student
+## AI Automation Developer • Algo Trader & Retention Engineer
 
-I build AI-powered automation systems, AI agents, Telegram bots, workflow automation, and business solutions.
+I build intelligent automation systems, AI agents, and scalable business workflows for Finance, iGaming, and digital businesses. My focus is creating production-ready solutions that reduce manual work, improve customer engagement, and automate complex operations.
 
-## 🚀 About Me
-- 🤖 AI Automation
-- ⚙️ n8n Workflow Development
-- 💬 Telegram Bot Development
+---
+
+# 🚀 Core Expertise
+
+- 🤖 AI Agents & Automation
+- ⚙️ n8n Workflow Engineering
+- 📈 Algorithmic Trading Systems
+- 💹 MT5 & Trading Automation
+- 💬 Telegram Business Automation
+- 🎯 Retention & CRM Automation
 - 🔗 API Integration
+- 🌐 Webhooks
 - 🧠 Prompt Engineering
-- 🐍 Python (Learning)
-- 🌐 Git & GitHub
+- 🐍 Python
+- ⚡ Git & GitHub
 
-## 📌 Featured Projects
-### AI Telegram Business Assistant
-AI assistant for customer support, onboarding, lead qualification and follow-up.
+---
 
-### n8n Automation Systems
-Reusable automation workflows connecting APIs, AI models, Telegram and Google services.
+# 📂 Featured Projects
 
-### Trading Community Automation
-Automation for onboarding, VIP access, notifications and AI conversations.
+## 🤖 AI Telegram Business Assistant
+An intelligent Telegram assistant that automates customer onboarding, support, lead qualification, verification, and follow-up sequences.
 
-## 🎯 Current Focus
-Building scalable AI agents and automation systems for businesses.
+## ⚙️ n8n Automation Platform
+Built reusable automation workflows integrating AI models, Telegram, APIs, Google services, and third-party platforms.
 
-## 📫 Contact
-- GitHub: https://github.com/nwakanmagodspower-glitch
-- Telegram: @Godspower_AI
-- WhatsApp: +2347025404935
+## 📊 Trading Community Automation
+Designed systems for VIP onboarding, automated notifications, AI conversations, CRM workflows, and community management.
 
-> More projects, screenshots, demos and documentation will be added regularly.
+## 📈 Algorithmic Trading Systems
+Building AI-assisted trading infrastructure integrating MT5, Python, Telegram, and automation workflows for financial markets.
+
+## 🎥 AI Video Production System
+Designed a modular AI-powered video production architecture combining AI planning, local models, automation, validation, and rendering.
+
+---
+
+# 🎯 Current Focus
+
+Building intelligent AI agents, financial automation systems, algorithmic trading infrastructure, and scalable business automation solutions.
+
+---
+
+# 🛠️ Tech Stack
+
+**Python • n8n • MT5 • Telegram Bots • AI Agents • OpenAI • APIs • GitHub • Webhooks • Automation**
+
+---
+
+# 📫 Connect With Me
+
+- **GitHub:** https://github.com/nwakanmagodspower-glitch
+- **Telegram:** https://t.me/Godspower_AI
+- **WhatsApp:** https://wa.me/2347025404935
+
+---
+
+> **"Building practical AI systems that solve real business problems."**
